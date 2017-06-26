@@ -26,6 +26,8 @@ SECRET_KEY = 'jwcl&m41obwm=w)q(4sy)$+57+-lt4xf$g50#z_&b8(r8ifr-f'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
     'pentux.pythonanywhere.com'
 ]
 
