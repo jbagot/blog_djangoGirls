@@ -25,7 +25,9 @@ SECRET_KEY = 'jwcl&m41obwm=w)q(4sy)$+57+-lt4xf$g50#z_&b8(r8ifr-f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'pentux.pythonanywhere.com'
+]
 
 
 # Application definition
